@@ -13,7 +13,7 @@
 [Práctica 4](https://github.com/ona03/PD_P4.git)
 
 #### Práctica 5
-[Práctica 5](https://github.com/ona03/PD_P5.git)
+[Práctica 5](https://github.com/didac89/PD_P5.git)
 
 #### Práctica 6
 [Práctica 6](https://github.com/ona03/PD_P6.git)
