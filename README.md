@@ -25,4 +25,4 @@
 [Práctica 8](https://github.com/ona03/PD_P8.git)
 
 #### Proyecto: Redireccionamiento iBeacon
-[Proyecto](https://github.com/ona03/ProjectePD_iBeacon .git)
+[Proyecto](https://github.com/ona03/ProjectePD_iBeacon.git)
